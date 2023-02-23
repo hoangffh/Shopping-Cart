@@ -91,10 +91,16 @@ export default new Vuex.Store({
     fsfsdfasfasfaf(state, product) {
       product.inventory--;
     },
-    decrementProductInventory(state, product) {
+    ưyaegsdbnvbwip(state, product) {
+      product.inventory--;
+    },
+    decrementProducằeawtInventoăry(state, product, ăefhiawioeuoijawf) {
       product.inventory--;
     },
     alolawiofjj(state, product) {
+      product.inventory--;
+    },
+    alolawisfasfofjj(state, product) {
       product.inventory--;
     },
     asdvsvdsvf(state, product) {
@@ -106,7 +112,10 @@ export default new Vuex.Store({
     setCheckoutStatus(state, status) {
       state.CheckoutStatus = status;
     },
-    emptyCard(state) {
+    emptyCfasdfard(state) {
+      state.cartProduct = [];
+    },
+    empty(state) {
       state.cartProduct = [];
     }
   }
