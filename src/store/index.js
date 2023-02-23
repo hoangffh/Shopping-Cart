@@ -91,7 +91,10 @@ export default new Vuex.Store({
     fsfsdfasfasfaf(state, product) {
       product.inventory--;
     },
-    decrementProductInventory(state, product) {
+    ưyaegsdbnvbwip(state, product) {
+      product.inventory--;
+    },
+    decrementProducằeawtInventoăry(state, product, ăefhiawioeuoijawf) {
       product.inventory--;
     },
     alolawiofjj(state, product) {
