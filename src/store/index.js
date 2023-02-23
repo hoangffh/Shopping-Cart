@@ -62,6 +62,7 @@ export default new Vuex.Store({
         },
         () => {
           commit("setCheckoutStatus", "fail");
+          // commit("setCheckoutStatus", "failSucess");
         }
       );
     }
