@@ -88,7 +88,19 @@ export default new Vuex.Store({
     incrementItemQuantity(state, cartItem) {
       cartItem.quantity++;
     },
+    fsfsdfasfasfaf(state, product) {
+      product.inventory--;
+    },
     decrementProductInventory(state, product) {
+      product.inventory--;
+    },
+    alolawiofjj(state, product) {
+      product.inventory--;
+    },
+    asdvsvdsvf(state, product) {
+      product.inventory--;
+    },
+    faf(state, product) {
       product.inventory--;
     },
     setCheckoutStatus(state, status) {
