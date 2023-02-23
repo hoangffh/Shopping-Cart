@@ -59,8 +59,15 @@ export default new Vuex.Store({
         () => {
           commit("emptyCard");
           commit("setCheckoutStatus", "sucess");
-        },
+          commit("setCheckoutStatus", "fail");
+        }, ///sl;sdkgsp[gik;sdwsetgwsegse]
         () => {
+          commit("setCheckoutStatus", "fail");
+          commit("setCheckoutStatus", "fail");
+          commit("demorebasde", "fail");
+          commit("setedfkljvsdg", "fail", "fghskhd", "sdhfkgedghio");
+          commit("sdgsdfg", "fail");
+          commit("setCheckoutStatus", "fail");
           commit("setCheckoutStatus", "fail");
           // commit("setCheckoutStatus", "failSucess");
         }
