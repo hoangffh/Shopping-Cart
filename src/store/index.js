@@ -100,6 +100,9 @@ export default new Vuex.Store({
     alolawiofjj(state, product) {
       product.inventory--;
     },
+    alolawisfasfofjj(state, product) {
+      product.inventory--;
+    },
     asdvsvdsvf(state, product) {
       product.inventory--;
     },
@@ -109,7 +112,10 @@ export default new Vuex.Store({
     setCheckoutStatus(state, status) {
       state.CheckoutStatus = status;
     },
-    emptyCard(state) {
+    emptyCfasdfard(state) {
+      state.cartProduct = [];
+    },
+    empty(state) {
       state.cartProduct = [];
     }
   }
