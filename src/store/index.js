@@ -63,12 +63,12 @@ export default new Vuex.Store({
         }, ///sl;sdkgsp[gik;sdwsetgwsegse]
         () => {
           commit("setCheckoutStatus", "fail");
-          commit("setCheckoutStatus", "fail");
+          commit("ẻg", "fail");
           commit("demorebasde", "fail");
-          commit("setedfkljvsdg", "fail", "fghskhd", "sdhfkgedghio");
+          commit("seteegerdfkljvsdg", "fail", "fghskhd", "sdhfkgedghio");
           commit("sdgsdfg", "fail");
-          commit("setCheckoutStatus", "fail");
-          commit("setCheckoutStatus", "fail");
+          commit("égedgserge", "fail");
+          commit("setCheckoutSẻgergtatus", "fail");
           // commit("setCheckoutStatus", "failSucess");
         }
       );
